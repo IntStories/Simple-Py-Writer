@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution folders
+dist/
+build/
+*.egg-info/
+
+# PyInstaller cache
+*.spec
+
+# Environment
+.env
+.venv
